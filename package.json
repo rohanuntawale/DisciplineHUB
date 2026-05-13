@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix discipline-hub run dev",
+    "build": "npm --prefix discipline-hub run build",
+    "start": "npm --prefix discipline-hub run start",
+    "lint": "npm --prefix discipline-hub run lint"
+  }
+}
